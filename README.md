@@ -1,6 +1,6 @@
-# Zira3 — La bergerie intelligente 🐑
+# Raqib — La bergerie intelligente 🐑
 
-Landing page de **Zira3 (زراعة)**, la solution IoT de surveillance pour les éleveurs ovins tunisiens : température, humidité, ammoniac, niveau d'eau, automatisation — avec alertes en arabe sur le téléphone de l'éleveur.
+Landing page de **Raqib (رقيب)**, la solution IoT de surveillance pour les éleveurs ovins tunisiens : température, humidité, ammoniac, niveau d'eau, automatisation — avec alertes en arabe sur le téléphone de l'éleveur.
 
 ## Structure
 
@@ -25,4 +25,4 @@ Site 100 % statique — compatible avec :
 
 ## Contact
 
-contact@zira3.tn · Fait en Tunisie 🇹🇳
+contact@raqib.tn · Fait en Tunisie 🇹🇳
